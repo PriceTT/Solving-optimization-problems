@@ -9,4 +9,3 @@ dependencies:
   - coincbc
   - ipopt
   - glpk
-

@@ -18,10 +18,8 @@ gekko = "^1.0.6"
 
 [tool.poetry.dev-dependencies]
 black = "*"
-
-
-[tool.poetry.group.dev.dependencies]
 jupyterlab = "^4.0.6"
+
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
