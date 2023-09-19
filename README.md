@@ -1,15 +1,15 @@
 # Solving optimization problems with Pyomo/Gekko
 
+Material from the following courses:  
+https://www.udemy.com/course/optimization-with-python-linear-nonlinear-and-cplex-gurobi/
+https://www.udemy.com/course/optimization-in-python/
+
 <p align="center">
   <img src="img.png">
 </p>
 
-## Current Features
-
 
 ## TODO
-
-
 
 ## Running locally 
 
@@ -22,8 +22,8 @@
 
 ### Set up ENV
 These are the steps to get started with the app:
-1. Clone the repository `git clone git@github.com:PriceTT/chat-assistant.git`.
-2. Create the virtual environment using conda and poetry. The basic commads are as follows: 
+1. Clone the repository `git@github.com:PriceTT/Solving-optimization-problems.git`.
+2. Create the virtual environment using conda and poetry. The basic commands are as follows: 
     * Navigate to project folder and run the command below to the create conda environment which reads the environment.yml file.  
     ``` conda env create ```  
     * Activate the virtual environment  with
@@ -36,5 +36,10 @@ These are the steps to get started with the app:
    ``` conda env remove --name opt-env ```
    * The interpreter path can be found by tying  ```which python```
 
-3. Once the environment is activated test with one of the notbooks.  
+3. Once the environment is activated test with one of the notebooks.  
+
+
+## Resources
+
+https://jckantor.github.io/ND-Pyomo-Cookbook/notebooks/01.01-Installing-Pyomo.html# 
 
