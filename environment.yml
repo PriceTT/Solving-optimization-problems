@@ -1,0 +1,12 @@
+name: opt-env
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - poetry
+  - pyomo
+  - coincbc
+  - ipopt
+  - glpk
+
