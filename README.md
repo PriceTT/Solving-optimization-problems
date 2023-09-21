@@ -4,6 +4,11 @@ Material from the following courses:
 https://www.udemy.com/course/optimization-with-python-linear-nonlinear-and-cplex-gurobi/
 https://www.udemy.com/course/optimization-in-python/
 
+
+Likewise, solved example + the Pyomo model codes in Python
+you can easily use the examples on Git hub using the following address
+https://github.com/OptimizationExpert/Pyomo
+
 <p align="center">
   <img src="img.png">
 </p>
@@ -42,4 +47,6 @@ These are the steps to get started with the app:
 ## Resources
 
 https://jckantor.github.io/ND-Pyomo-Cookbook/notebooks/01.01-Installing-Pyomo.html# 
+
+https://jckantor.github.io/CBE30338/06.04-Linear-Production-Model-in-Pyomo.html
 
